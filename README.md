@@ -1,2 +1,2 @@
 ### stat_tools
-tools for statistical analysis.
+tools for testing compliance with a normal distribution for one or more sets of data.
